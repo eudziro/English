@@ -1,0 +1,23 @@
+1. Electronics is a field of engineering and applied physics dealing
+with the design and application of electronic circuits.
+2&3 Today it is difficult to imagine our life without electronics. It surrounds
+us everywhere. Electronic devices are widely used in scientific research
+and industrial designing, they control the work of plants and power stations,
+cal­culate the trajectories of spaceships and help the people
+discover new phe­nomena of nature.
+4. The invention of vacuum tubes at the beginning of the 20th century was the
+starting point of the rapid growth of modern electronics. Vacuum tubes
+assisted in manipulation of signals.
+5. The development of a large variety of tubes designed for specialized
+functions made possible the progress in radio communication technology before
+the World War II and in the creation of early computers during and shortly after
+the war.
+6&7 The transistor invented by American scientists W. Shockly, J. Bardeen and
+W. Brattain in 1948 completely replaced the vacuum tube. The transis­ tor,
+a small piece of a semiconductor with three electrodes, had great ad­ vantages
+over the best vacuum tubes.
+8.With the invention of the transistor all essential circuit functions
+could be carried out inside solid bodies.
+9. Integrated Curcuits was invented by John Kilby in 1958.
+10. Vacuum tubes required a lot of space, as oppose to "modern" transistors.
+You see, vacuum tubes it is the same transistor but bigger.
