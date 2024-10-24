@@ -1,0 +1,23 @@
+1. In computer science words "computer" and "processor" are used interchangeably.
+2. The internal memory, control and processing components make up the heart of the
+computer system.
+3. The CPU coordinates all the activities of the various components of the computer.
+The CPU controls the operation of the entire system by issuing commands to other
+parts of the system and by acting on responses.
+4. When required, it reads information from the memory, interprets instructions,
+perform operations on the data according to the instustions, writes the results
+back into the memory, and moves information between memory levels or through the
+input-output ports.
+5. Reads, interprets, perform, writes, moves;
+6. In digital computers the CPU can be divided into two functional units called
+the control unit (CU), and the arithmetic-logic unit (ALU). These two units are made
+up of electronic circuits with millions of switches that can be in one of states,
+either on or off.
+7. The control unit is that part ofthe com­ puter that directs the sequence of
+step-by-step operations of the system, selects instructions and data from memory,
+interprets the program instructions, and controls the flow between main
+storage and the arithmetic-logic unit.
+8. ALU is performing addition, subtraction, multiplication, division.
+9. Programs are have to be in internal memory in order to the processed.
+10. Then, after program is done it's got saved back into the secondary memory devices,
+such as disks of tapes.
