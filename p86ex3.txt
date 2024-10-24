@@ -5,7 +5,7 @@ computer system.
 The CPU controls the operation of the entire system by issuing commands to other
 parts of the system and by acting on responses.
 4. When required, it reads information from the memory, interprets instructions,
-perform operations on the data according to the instustions, writes the results
+perform operations on the data according to the instructions, writes the results
 back into the memory, and moves information between memory levels or through the
 input-output ports.
 5. Reads, interprets, perform, writes, moves;
