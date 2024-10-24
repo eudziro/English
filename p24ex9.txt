@@ -1,0 +1,15 @@
+1. The elecronics is a rapidly growing industry.
+2. The evolution of electronic technology is sometimes called a revolution: a
+quantitative change in technology gave rise to qualitative change in
+human capabilities.
+3&4. Microelectronics is a name for extremely small electronic components and
+circuit assemblies, made by film or semiconductor techniques.
+5. The point of this extraordinary miniaturization is to make circuits long-lasting,
+low in cost, and capable of performing electronic functions at extremely high speed.
+6. The smaller the transistor, the faster it is. The smaller the computer,
+the faster it can work.
+7. Speed of signal ≈ speed of light.
+8. One more advantage of microelectronics is that smaller devices consume less power.
+In space satellites and spaceships this is a very important factor.
+9. Microelecronics is now used everywhere, begins from cheap earphones, ending with
+space shuttels.
