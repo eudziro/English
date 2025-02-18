@@ -1,0 +1,23 @@
+test1: 
+1. Programs and data to be processed must be in the a) internal memory.
+2. The control unit c) obtains instructions from the program.
+3. The results of arithmetic operations are returned to the c) accumulator for transferring to main storage.
+4. The instruction to be b) executed in control unit is read out from primary storage into the storage register.
+5. The c) comparer performs logical comparisons of the contents of the storage register and the b) accumulator.
+6. The read out command is passed from the a) instruction register to the c) storage register.
+7. CPU is designed to a) control and to c) carry out basic instructions for the computer.
+8. CU and ALU consist of electronic circuits with millions of c) switches.
+
+test2: 
+Here are the correct matches for each term:
+1. CPU - a) performs the processing operations
+2. CU - d) coordinates the operation of the whole system
+3. ALU - c) executes basic arithmetic functions
+4. Accumulator - i) holds the results of processing operations
+5. Clock - f) produces electronic marks at regular intervals
+6. Counter - e) selects data from memory
+7. Register - g) controls the flow between the primary storage and the arithmetic-logical unit
+8. Decoder - j) breaks the instructions into separate commands
+9. Comparer - b) carries out logical comparisons of storage
+10. Adder - h) keeps the instruction while it is being performed
+

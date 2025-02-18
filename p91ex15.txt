@@ -1,0 +1,25 @@
+It is known that one of the fundamental parts of the computer is a control unit. This unit controls the computation
+process automatically, with out man’s participation. It sends signals to all other parts of the computer to specify
+what they must do. First of all, the control unit tells the main memory what data must be transferred to the
+arithmetic-logical unit and other devices. Then it enables the arithmetic-logical unit to perform the required
+operation. Finally, it places the obtained results in the main memory. It is important to note that the control unit
+operation is determined by an algorithm of a problem solution. The algorithm is a sequence of arithmetic and logical
+operations. These operations must be performed on the initial data for solving the problem. Description o f an algorithm
+in a form acceptable by a computer is called a program. A program is a list of sequential computer instructions enabling
+a computer to solve a problem. In order to be acceptable by the computer instructions must be encoded into a digital
+form. In conclusion it should be pointed out that the main feature of a com puter is automatic control of the problem
+solution process. It is based on the programmed-control principle. 
+
+Известно, что одной из основных частей компьютера является блок управления. Этот блок управляет вычислительным
+автоматически, без участия человека. Он посылает сигналы всем остальным частям компьютера, указывая что они должны
+делать. Прежде всего, блок управления сообщает основной памяти, какие данные должны быть переданы в
+арифметико-логический блок и другие устройства. Затем он позволяет арифметико-логическому блоку выполнить требуемую
+операцию. И, наконец, помещает полученные результаты в основную память. Важно отметить, что работа блока управления
+определяется алгоритмом решения задачи. Алгоритм представляет собой последовательность арифметических и логических
+операций. Эти операции должны быть выполнены над исходными данными для решения задачи. Описание алгоритма в форме,
+приемлемой для компьютера, называется программой. Программа - это список последовательных компьютерных инструкций,
+позволяющих компьютеру решить задачу. Для того чтобы инструкции были приемлемы для компьютера, они должны быть
+закодированы в цифровой форму. В заключение следует отметить, что главной особенностью компьютера является
+автоматическое управление процессом решения задачи процессом решения. В его основе лежит принцип программно-целевого
+управления.
+

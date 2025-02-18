@@ -1,0 +1,35 @@
+1. What are the functional units of CPU?  The functional units of the CPU are the control unit (CU) and the
+arithmetic-logical unit (ALU).
+
+2. What is the function of CU?  The control unit manages and coordinates the entire computer system, obtaining
+instructions from the program stored in main memory, interpreting them, and issuing signals to execute those
+instructions.
+
+3. How does CU operate?  The CU operates by reading one instruction at a time from memory, taking the action called
+for by each instruction, and controlling the flow between the main storage and the arithmetic-logical unit.
+
+4. What is the function of a counter?  The counter selects instructions one at a time from memory for execution.
+
+5. What role does a decoder play?  The decoder takes the coded instruction and breaks it down into individual
+commands necessary to carry it out.
+
+6. What is the sequence of CU operations?  The sequence of CU operations is as follows: 
+   - The next instruction is read from primary storage into the storage register.
+   - The instruction is passed to the instruction register.
+   - The operation part of the instruction is decoded.
+   - The address of the operand is sent to the address register.
+   - The instruction counter register provides the address register with the address of the next instruction to be
+     executed.
+
+7. What is the function of the arithmetic-logical unit?  The arithmetic-logical unit (ALU) executes the processing
+operations called for by the instructions brought from main memory by the control unit.
+
+8. What operations are performed by ALU?  The ALU performs binary arithmetic, logical operations, and some special
+functions.
+
+9. What primary components does ALU consist of?  The primary components of the ALU consist of banks of bistable
+devices called registers, and at its core, a very high-speed binary adder.
+
+10. What is the function of an accumulator/comparer?  The accumulator holds the results of processing operations,
+while the comparer performs logical comparisons of the contents of the storage register and the accumulator, testing
+conditions such as "less than," "equal to," or "greater than."

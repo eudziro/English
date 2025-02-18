@@ -1,0 +1,29 @@
+Вот английские эквиваленты указанных слов и словосочетаний из текста:
+
+1. Функциональные блоки - functional units
+2. Устройство управления - control unit (CU)
+3. Арифметико-логическое устройство - arithmetic-logical unit (ALU)
+4. Управлять работой всей системы - manage and coordinate the entire computer system
+5. Получать команды - obtain instructions
+6. Основная память - main memory
+7. Посылать сигналы - issue signals
+8. Считывать команды поэтапно - read instructions one at a time
+9. Таким образом - in this way
+10. Временно сохранять информацию - temporarily holds the instructions
+11. Производить пометки через равные промежутки времени - produces marks at regular intervals
+12. Последовательность операций - sequence of operations
+13. Регистр памяти - storage register
+14. Регистр команд - instruction register
+15. Адресный регистр - address register
+16. Счетчик - counter
+17. Датчик - clock
+18. Дешифратор - decoder
+19. Адрес операнда - address of the operand
+20. Высокоскоростной двоичный сумматор - very high-speed binary adder
+21. По крайней мере - at least
+22. Вычитание - subtraction
+23. Сложение - addition
+24. Умножение - multiplication
+25. Деление - division
+26. Принимать решения - make decisions
+27. Результаты сравнения - results of the comparison
