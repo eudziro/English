@@ -1,0 +1,29 @@
+1. What is the purpose of input and output devices?  The purpose of input and output devices is to link the computer to
+its external environment by allowing data and instructions to enter the data processing system and enabling information
+to leave it.
+
+2. What types of input-output devices do you know?  Types of input-output devices include:
+   - High-speed devices: magnetic disks, magnetic tapes
+   - Medium-speed devices: card readers, line printers, page printers, computer output microfilms, magnetic diskettes,
+     optical character readers, optical mark readers, visual displays
+   - Low-speed devices: bar-code readers, character printers, digitizers, keyboard input devices, plotters, voice
+     recognition and response units
+
+3. Why are data transformed into a binary code while entering the input device?  Data are transformed into binary code
+while entering the input device because the primary memory of the computer is designed to accept data in binary format.
+
+4. What is an example of a human-independent output?  An example of a human-independent output is a reel of magnetic
+tape upon which collected data are stored in binary format.
+
+5. What is an I/O interface?  An I/O interface is a unit that matches the unique physical or electrical characteristics
+of input devices to the requirements of the computer system, and it also adapts the output to the external environment.
+
+6. What are the major differences between the various I/O devices?  The major differences between various I/O devices
+are the media they use and the speed with which they are able to transfer data to or from primary storage.
+
+7. What types of I/O devices tend to be high-speed devices?  High-speed devices include magnetic disks and magnetic
+tapes, which are entirely electronic in their operation or magnetic media that can be moved at high speed.
+
+8. What type of devices tend to be low-speed devices?  Low-speed devices include bar-code readers, character printers,
+digitizers, keyboard input devices, plotters, and voice recognition and response units, which have complex mechanical
+motion or operate at the speed of a human operator.

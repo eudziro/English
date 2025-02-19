@@ -1,0 +1,44 @@
+1. What are the three types of printers?  The three types of printers are character printers, line printers, and page printers.
+
+2. What is a letter-quality printer?  A letter-quality printer is a type of character printer that produces output of
+typewriter quality, typically with speeds ranging from 10 to 50 characters per second.
+
+3. What is a dot-matrix printer?  A dot-matrix printer forms each character as a pattern of dots. It generally has a
+lower quality of type than letter-quality printers but is faster, with speeds ranging from 50 to 200 characters per
+second.
+
+4. What type of printer is the most common with microcomputer systems?  Character printers are the most common type used
+with microcomputer systems.
+
+5. What is the most common printer type used on large computer systems?  Line printers are the most common printer type
+used on large computer systems.
+
+6. What is an impact printer? Give an example.  An impact printer uses electromechanical mechanisms that cause hammers
+to strike against a ribbon and the paper. An example of an impact printer is a line printer.
+
+7. What is a nonimpact printer? Give examples.  A nonimpact printer does not hit or impact a ribbon to print. Examples
+include ink-jet printers and laser printers.
+
+8. What are the most widely used printers? Inkjet printers.
+
+9. How do you distinguish between a letter-quality printer and a dot-matrix printer?  A letter-quality printer produces
+
+printer forms characters as patterns of dots and is generally faster (50 to 200 characters per second) but has lower
+print quality.
+
+10. Which of these printers is slower?  The letter-quality printer is slower compared to the dot-matrix printer.
+
+11. What types of character printers do you know?  The types of character printers include letter-quality printers,
+dot-matrix printers, and ink-jet printers.
+
+12. How are printed characters formed by means of an ink-jet printer?  Printed characters are formed by an ink-jet
+printer that sprays small drops of ink onto paper to create the characters. The ink is affected by magnetic fields,
+causing it to take the shape of a character as it approaches the paper.
+
+13. What are the main types of a line printer? Which of them is faster?  The main types of line printers are drum
+printers and chain printers. Chain printers tend to be faster, with speeds ranging from 400 to 2,400 lines per minute,
+compared to drum printers, which range from 200 to over 2,000 lines per minute.
+
+14. What techniques are used in the operation of page printers?  Page printers use electrophotographic techniques, which
+have developed from paper copier technology, including laser-beam printers that combine laser beams with
+electrophotographic techniques to create printer output at high speeds.

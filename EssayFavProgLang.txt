@@ -1,0 +1,16 @@
+MY FAVORITE PROGRAMMING LANGUAGE 
+
+In our world we use many services. Those services are tightly integrated in our live: cab call, food delivery,
+bank applications, bank transactions, autonomous navigating systems in airplanes, navigation, satellites, communication, 
+television, media, computers itself after all, these are all examples of our highly digitalized life.
+And none of that would be possible if Dennis Ritchie and Ken Thompson would not invented The C programming language.
+
+The vast majority of all computers today and all digitalized system on the planet (including mobile devices, media in
+cars) uses linux kernel which was fully written in C. Not only linux kernel was written in C, in fact, every kernel was
+written in C, one way or another.
+C is absolute father of all modern programming languages: python was written in C, Perl was written in C, C# was written
+in C, Lua interpretator was written in C, even JavaScript was written in C, everything that you see around eventually
+endup rooting in C. 
+
+The ingenuity of this language is that it's simple. C does not contain any complex ideas like OOP, or whatever, 
+everything that C got is a functions, structures, and variables, and that's enough for digitalize the whole world.

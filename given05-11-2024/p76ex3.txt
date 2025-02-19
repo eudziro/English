@@ -1,0 +1,34 @@
+
+1. What are the functional units of a digital computer?  The functional units of a digital computer are: 1) storage
+units (primary and secondary), 2) central processing unit (CPU), and 3) input and output units.
+
+2. What units make up the central processing unit?  The text does not specify the individual units that make up the CPU,
+but it generally includes the control unit and the arithmetic-logical unit (ALU).
+
+3. How is the computer system organized?  The computer system is organized around the primary storage unit, with all
+data and instructions passing through primary storage. The sequence of description is: storage units (primary and
+secondary), central processing unit, and input and output units.
+
+4. What are the two main types of storage units?  The two main types of storage units are primary storage and secondary
+storage.
+
+5. What do they contain?  Both primary and secondary storage units contain data and the instructions for processing that
+data.
+
+6. What is the function of primary storage?  The function of primary storage is to hold (store) all data to be
+processed, intermediate results of processing, final results of processing, and all the instructions required for
+ongoing processes.
+
+7. Why is primary storage often called memory?  Primary storage is often called memory because of its similarity to the
+function of the human brain in retaining information.
+
+8. In what respect does computer memory differ from human memory?  Computer memory differs from human memory in that it
+must retain very large numbers of symbol combinations without forgetting or changing any details and must be able to
+locate all its contents quickly upon demand.
+
+9. What are codes based on?  Codes used by computer designers are based upon a binary number system that has only two
+possible values, 0 and 1.
+
+10. What is secondary storage and what is it used for?  Secondary storage refers to slower, less expensive storage units
+that are available for computer systems. It is used to store many millions, sometimes billions, of bytes of data, and
+data is stored in these units in the same binary codes as in main storage, made available to main storage as needed.

@@ -1,0 +1,30 @@
+1. What is programming?  Programming is the process of preparing a set of coded instructions that enables the computer
+to solve specific problems or perform specific functions.
+
+2. What is the essence of programming?  The essence of computer programming is the encoding of the program for the
+computer by means of algorithms.
+
+3. What should be done with the problem before processing by the computer?  Any problem must be specially processed for
+the computer to understand it, which means it must be coded or programmed.
+
+4. What is a program?  A program is a list of instructions that will be followed by the control unit of the central
+processing unit (CPU).
+
+5. What are instructions?  Instructions are the specific commands within a program that must be complete and in the
+appropriate sequence to ensure correct results.
+
+6. What are the main techniques for planning the program logic?  The two common techniques for planning the logic of a
+program are flowcharting and pseudocode.
+
+7. What is a flowchart?  A flowchart is a plan in the form of a graphic or pictorial representation that uses predefined
+symbols to illustrate the program logic, serving as a "picture" of the logical steps to be performed by the computer.
+
+8. What is a template and what is it used for?  A template is a plastic or metal guide used to make drawing the symbols
+in a flowchart easier.
+
+9. What do you understand by “pseudocode”?  Pseudocode is an imitation of actual program instructions that allows for a
+program-like structure without the burden of strict programming rules, making it less time-consuming for professional
+programmers than flowcharting.
+
+10. What are the basic structures of pseudocode?  The basic structures of pseudocode are sequence, decision, and looping
+logic. With these three structures, any required logic can be expressed.
